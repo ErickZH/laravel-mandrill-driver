@@ -9,6 +9,9 @@
 
 **This is a community project and not an "official" one**
 
+## Requirements
+The Laravel Mandrill Driver requires **PHP 7.2+** and **Laravel 6+**.
+
 ## Installation
 
 First, require the package using composer:
